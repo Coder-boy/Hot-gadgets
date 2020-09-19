@@ -37,15 +37,62 @@ button.buy-now-btn i {
     margin-left: 5px;
 }
 .smarphone-area{
-    padding-top: 180px;
+    padding-top: 120px;
 }
 .card{
     border: none;
-    box-shadow: 5px 5px 20px lightgray;
+    box-shadow: 5px 5px 20px #eaeaea;
     padding-top: 40px;
 }
 .card-footer {
     padding: .75rem 1.25rem;
     background-color:white;
      border-top: none
+}
+.card-deck {
+    padding-top: 30px;
+}
+.col-md-6.d-flex.justify-content-end a {
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 600;
+    color: #ffcc1b;
+}
+.card {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+.Laptop-area{
+    padding: 100px 0;
+}
+.align-items-center.card.cat {
+    margin: 15px;
+    border-radius: 0px 20px 0px 20px;
+    box-shadow: 5px 6px 30px #eaeaea;
+}
+.align-items-center.card.cat1 {
+    margin: 15px;
+    border-radius: 20px 0px 20px 0px;
+    box-shadow: 5px 6px 30px #eaeaea;
+}
+.title {
+    border-bottom: 5px solid;
+    border-image: linear-gradient(45deg, #ffa133, #ffce1a);
+    border-image-slice: 1;
+    width: 190px;
+    margin: auto;
+}
+section#categories .row {
+    padding-top: 50px;
+}
+.categories-area{
+    padding: 50px 0;
+}
+a.nav-link {
+    font-weight: 700;
+    
+}
+footer p{
+    text-align: center;
 }
